@@ -1,0 +1,7 @@
+[theme]
+primaryColor="#FF5733"       # Buttons / highlights color
+backgroundColor="#F9F9F9"    # Main background
+secondaryBackgroundColor="#FFFFFF"  # Sidebar background
+textColor="#000000"          # Text color
+font="sans serif"
+
